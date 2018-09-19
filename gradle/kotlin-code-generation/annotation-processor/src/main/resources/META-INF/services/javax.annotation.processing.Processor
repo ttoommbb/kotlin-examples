@@ -1,1 +1,1 @@
-org.kotlin.annotationProcessor.TestAnnotationProcessor
+io.mymex.cloud.constantsgen.AnnotationProcessor
